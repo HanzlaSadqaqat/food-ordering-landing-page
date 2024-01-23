@@ -1,0 +1,47 @@
+/* 
+/* nav-bar setting */
+#nav-bar{
+    display: flex;
+    justify-content: center;
+}
+#nav-bar ul li a{
+    font-size: small;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* home section */
+#home{
+    height: 461px;
+}
+
+#home h1, #home p{
+    position: relative;
+    top: -100px;
+    text-align: center;
+    font-size: large;
+}
+
+
+
+
+/* services section */
+
+
+
+/* adds section */
+
+.adds{
+    display: flex;
+    flex-wrap: wrap;
+}
+#contact-us form input {
+    width: 100%;
+
+
+}
+/* contact section  */
+#contact-us form{
+    
+    width: 85%;
+}
